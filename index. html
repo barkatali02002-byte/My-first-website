@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Website</title>
+<style>
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #f0f5ff;
+  padding: 40px;
+}
+h1 { color: #0756a8; }
+button {
+  background: green;
+  color: white;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 8px;
+}
+</style>
+</head>
+<body>
+<h1>Welcome to My Website</h1>
+<p>My First Website Created with AI</p>
+<button>Contact Us</button>
+</body>
+</html>
